@@ -9,8 +9,7 @@
     "lint": "next lint"
   },
   "simple-git-hooks": {
-    "pre-commit": "make lint",
-    "pre-push": "make lint"
+    "pre-commit": "make lint"
   },
   "dependencies": {
     "classnames": "^2.3.1",
