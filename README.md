@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/boldurean/specialsarelikeeveryone/actions/workflows/nodeCI.yml/badge.svg)](https://github.com/boldurean/specialsarelikeeveryone/actions)
 ## Social charity project.
 
 ### Install
