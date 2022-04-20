@@ -3,21 +3,21 @@
 
 ### Install
 
-```makefile
+```make
 make setup
 ```
 
 ### Run dev server
-```makefile
+```make
 make dev
 ```
 
 ### Build 
-```makefile
+```make
 make build
 ```
 
 ### Start 
-```makefile
+```make
 make start
 ```
