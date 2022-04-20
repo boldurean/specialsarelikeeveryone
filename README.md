@@ -5,7 +5,7 @@
 
 # Overview
 
-This repository contains the source code for the new [website]. The site is written using [Next.js](https://nextjs.org/), [TypeScript](https://typescriptlang.org/) and [Tailwindcss](https://tailwindcss.com/).
+This repository contains the source code for the new [website]. The site is written using [Next.js](https://nextjs.org/) and [Tailwindcss](https://tailwindcss.com/).
 
 
 ## Building
